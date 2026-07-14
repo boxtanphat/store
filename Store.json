@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "TP TV",
+      "package": "com.tptv",
+      "version": "1.0.0",
+      "icon": "https://boxtanphat.github.io/app/icon/tptv.png",
+      "apk": "https://boxtanphat.github.io/app/apk/tptv.apk",
+      "description": "Ứng dụng xem truyền hình."
+    }
+  ]
+}
