@@ -39,6 +39,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/chophim.jfif",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/chophim.apk",
       "description": "Ứng dụng xem Phim miễn phí."
+    },
+    {
+      "name": "Ferrari Downloader",
+      "package": "com.esaba.FerrariDownloaderFerrari",
+      "version": "1.5.1",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/dowloader.png",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/ferraridownloader.apk",
+      "description": "Ứng dụng tải app bằng code mã số dowloader"
     }
   ]
 }
