@@ -19,10 +19,10 @@
     {
       "name": "TV365",
       "package": "com.tvonline.hdtv",
-      "version": "1.0.8",
+      "version": "V3",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/TV365.jfif",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/TV365.apk",
-      "description": "Ứng dụng xem video giải trí."
+      "description": "Ứng dụng xem truyền hình miễn phí."
     }
   ]
 }
