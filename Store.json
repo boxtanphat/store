@@ -10,11 +10,19 @@
     },
     {
       "name": "YouTube",
-      "package": "Youtube.com",
+      "package": "com.google.android.youtube.tv",
       "version": "1.0.8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/YouTube_1.0.8.apk",
-      "description": "Ứng dụng xem truyền hình."
+      "description": "Ứng dụng xem video giải trí."
+    },
+    {
+      "name": "TV365",
+      "package": "com.tvonline.hdtv",
+      "version": "1.0.8",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/TV365.jfif",
+      "apk": "https://github.com/sang189hy/app/releases/download/1.0/TV365.apk",
+      "description": "Ứng dụng xem video giải trí."
     }
   ]
 }
