@@ -19,10 +19,26 @@
     {
       "name": "TV365",
       "package": "com.tvonline.hdtv",
-      "version": "V3",
+      "version": "3.0",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/TV365.jfif",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/TV365.apk",
       "description": "Ứng dụng xem truyền hình miễn phí."
+    },
+    {
+      "name": "Getout",
+      "package": "con.linor.vn.getout",
+      "version": "2.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/getout.webp",
+      "apk": "https://github.com/sang189hy/app/releases/download/1.0/GetOut20.apk",
+      "description": "Ứng dụng xem truyền hình, thể thao miễn phí."
+    },
+    {
+      "name": "chợ Phim",
+      "package": "con.chophim.tv",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/chophim.jfif",
+      "apk": "https://github.com/sang189hy/app/releases/download/1.0/chophim.apk",
+      "description": "Ứng dụng xem Phim miễn phí."
     }
   ]
 }
