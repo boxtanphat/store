@@ -47,6 +47,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/dowloader.png",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/ferraridownloader.apk",
       "description": "Ứng dụng tải app bằng code mã số dowloader"
+    },
+    {
+      "name": "Rổ phim Cô be",
+      "package": "com.tv.rophimm",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/rophimcobe.jfif",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/rophimcobe.apk",
+      "description": "Ứng dụng Xem phim Miễn phí"
     }
   ]
 }
