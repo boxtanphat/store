@@ -12,7 +12,7 @@
       "name": "YouTube",
       "package": "com.google.android.youtube.tv",
       "version": "1.0.8",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/youtube.webp",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/YouTube_1.0.8.apk",
       "description": "Ứng dụng xem video giải trí."
     },
