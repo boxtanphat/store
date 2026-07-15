@@ -3,7 +3,7 @@
     {
       "name": "TP TV",
       "package": "com.tptv",
-      "version": "1.0.0",
+      "version": "2.4",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tptv.jpg",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/TPTV2.4.apk",
       "description": "Ứng dụng xem truyền hình."
@@ -35,7 +35,7 @@
     {
       "name": "chợ Phim",
       "package": "con.chophim.tv",
-      "version": "1.0",
+      "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/chophim.jfif",
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/chophim.apk",
       "description": "Ứng dụng xem Phim miễn phí."
