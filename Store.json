@@ -16,7 +16,7 @@
       "apk": "https://github.com/sang189hy/app/releases/download/1.0/YouTube_1.0.8.apk",
       "description": "Ứng dụng xem video giải trí. tizen tube bản 1.0.8 nhẹ"
     },
-     {
+    {
       "name": "YouTube",
       "package": "com.google.android.youtube.tv",
       "version": "2.0.2",
