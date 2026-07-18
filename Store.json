@@ -9,12 +9,12 @@
       "description": "Ứng dụng xem truyền hình."
     },
     {
-      "name": "YouTube",
+      "name": "SmartTube",
       "package": "com.google.android.youtube.tv",
       "version": "1.0.8",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/youtube.jpg",
-      "apk": "https://github.com/sang189hy/app/releases/download/1.0/YouTube_1.0.8.apk",
-      "description": "Ứng dụng xem video giải trí. tizen tube bản 1.0.8 nhẹ"
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/smartyoutube.png",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/SmartTube.apk",
+      "description": "Ứng dụng xem video giải trí. Smart tube, Xem Youtube Không Quảng Cáo"
     },
     {
       "name": "YouTube",
