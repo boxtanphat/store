@@ -10,8 +10,8 @@
     },
     {
       "name": "SmartTube",
-      "package": "com.google.android.youtube.tv",
-      "version": "1.0.8",
+      "package": "org.smarttube.stable",
+      "version": "31.94",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/smartyoutube.png",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/SmartTube.apk",
       "description": "Ứng dụng xem video giải trí. Smart tube, Xem Youtube Không Quảng Cáo"
