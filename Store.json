@@ -19,7 +19,7 @@
     {
       "name": "YouTube",
       "package": "com.google.android.youtube.tv",
-      "version": "2.0.2",
+      "version": "5.30.304",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/youtube.jpg",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/youtube_5.30.apk",
       "description": "Ứng dụng Youtube gốc xem video giải trí miễn phí"
