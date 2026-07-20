@@ -63,6 +63,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/rophimcobe.jfif",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/rophimcobe.apk",
       "description": "Ứng dụng Xem phim Miễn phí"
+    },
+    {
+      "name": "File Manga +",
+      "package": "com.file",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/FileManager.jfif",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/FileManager.apk",
+      "description": "Quản lý tệp tin"
     }
   ]
 }
