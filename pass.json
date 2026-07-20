@@ -1,8 +1,5 @@
 {
   "enable": true,
   "password": "123456",
-  "expire": "2026-12-31",
-  "minVersion": 3,
-  "forceUpdate": false,
   "message": "Liên hệ admin để lấy mật khẩu"
 }
