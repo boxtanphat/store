@@ -71,6 +71,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/FileManager.jfif",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/FileManager.apk",
       "description": "Quản lý tệp tin"
+    },
+    {
+      "name": "THtv",
+      "package": "com.haidaklak.iptv",
+      "version": "1.1.8",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/THtv.png",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/THtv.apk",
+      "description": "Ứng Dụng xem tivi gọi kênh bằng giọng nói google hoặc vào app nhấn ok gọi kênh"
     }
   ]
 }
