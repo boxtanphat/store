@@ -79,6 +79,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/THtv.png",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/THtv.apk",
       "description": "Ứng Dụng xem tivi gọi kênh bằng giọng nói google hoặc vào app nhấn ok gọi kênh"
+    },
+     {
+      "name": "Phim 4K",
+      "package": "com.oxootv.spagreen",
+      "version": "2.6.6",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/phim4k.webp",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/Phim4K-v2.6.6.apk",
+      "description": "Ứng Dụng xem Phim 4K UHD"
     }
   ]
 }
