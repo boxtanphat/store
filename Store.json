@@ -87,6 +87,14 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/phim4k.webp",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/Phim4K-v2.6.6.apk",
       "description": "Ứng Dụng xem Phim 4K UHD đã ngừng đang bảo trì"
+    },
+    {
+      "name": "tpTV_PROMAX",
+      "package": "com.tanphat.iptv",
+      "version": "1.1.9",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tpTV_PROMAX.jpg",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/tptv_promax.apk",
+      "description": "Ứng Dụng xem tivi tìm kênh bằng giọng nói bằng phím số YC bật tiếp cận"
     }
   ]
 }
