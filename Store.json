@@ -57,11 +57,11 @@
       "description": "Ứng dụng tải app bằng code mã số dowloader"
     },
     {
-      "name": "Rổ phim Cô be",
-      "package": "com.tv.rophimm",
-      "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/rophimcobe.jfif",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/rophimcobe.apk",
+      "name": "Đào tv",
+      "package": "com.daotv.player",
+      "version": "2.0.2",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/daotv.jpg",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/daoTV_2.0.2.apk",
       "description": "Ứng dụng Xem phim Miễn phí"
     },
     {
@@ -73,12 +73,12 @@
       "description": "Quản lý tệp tin"
     },
     {
-      "name": "THtv",
-      "package": "com.haidaklak.iptv",
-      "version": "1.1.8",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/THtv.png",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/THtv.apk",
-      "description": "Ứng Dụng xem tivi gọi kênh bằng giọng nói google hoặc vào app nhấn ok gọi kênh"
+      "name": "Tizentube",
+      "package": "io.gh.reisxd.tizentube.cobalt",
+      "version": "2.0.2",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tizentube.jfif",
+      "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm.apk",
+      "description": "Ứng Dụng xem Youtube Không QC"
     },
      {
       "name": "Phim 4K",
