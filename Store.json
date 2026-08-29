@@ -1,13 +1,5 @@
 {
-  "apps": [
-    {
-      "name": "TP TV",
-      "package": "com.tptv",
-      "version": "2.4",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tptv.jpg",
-      "apk": "https://github.com/sang189hy/app/releases/download/1.0/TPTV2.4.apk",
-      "description": "Ứng dụng xem truyền hình."
-    },
+  "Giai tri": [
     {
       "name": "SmartTube",
       "package": "org.smarttube.stable",
@@ -23,6 +15,22 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/youtube.jpg",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/youtube_5.30.apk",
       "description": "Ứng dụng Youtube gốc xem video giải trí miễn phí"
+    },
+    {
+      "name": "Tizentube",
+      "package": "io.gh.reisxd.tizentube.cobalt",
+      "version": "2.0.2",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tizentube.jfif",
+      "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.2/cobalt-arm.apk",
+      "description": "Ứng Dụng xem Youtube không qc tizentubw mới nhất"
+    },
+    {
+      "name": "TP TV",
+      "package": "com.tptv",
+      "version": "2.4",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tptv.jpg",
+      "apk": "https://github.com/sang189hy/app/releases/download/1.0/TPTV2.4.apk",
+      "description": "Ứng dụng xem truyền hình."
     },
     {
       "name": "TV365",
@@ -64,29 +72,13 @@
       "apk": "https://github.com/boxtanphat/store/releases/download/1/rophimcobe.apk",
       "description": "Ứng dụng Xem phim Miễn phí"
     },
-    {
-      "name": "File Manga +",
-      "package": "com.file",
-      "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/FileManager.jfif",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/FileManager.apk",
-      "description": "Quản lý tệp tin"
-    },
-    {
-      "name": "THtv",
-      "package": "com.haidaklak.iptv",
-      "version": "1.1.8",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/THtv.png",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/THtv.apk",
-      "description": "Ứng Dụng xem tivi gọi kênh bằng giọng nói google hoặc vào app nhấn ok gọi kênh"
-    },
      {
       "name": "Phim 4K",
       "package": "com.oxootv.spagreen",
       "version": "2.6.6",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/phim4k.webp",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/Phim4K-v2.6.6.apk",
-      "description": "Ứng Dụng xem Phim 4K UHD đã ngừng đang bảo trì"
+      "description": "Ứng Dụng xem Phim 4K UHD "
     },
     {
       "name": "tpTV_PROMAX",
@@ -98,3 +90,16 @@
     }
   ]
 }
+{
+  "TIEN ICH": [
+    {
+      "name": "File Manga +",
+      "package": "com.file",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/FileManager.jfif",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/FileManager.apk",
+      "description": "Quản lý tệp tin"
+    }
+  ]
+ }
+    
