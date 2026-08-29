@@ -1,5 +1,5 @@
 {
-  "Giai tri": [
+  "apps": [
     {
       "name": "SmartTube",
       "package": "org.smarttube.stable",
@@ -87,11 +87,7 @@
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/tpTV_PROMAX.jpg",
       "apk": "https://github.com/boxtanphat/store/releases/download/1/tptv_promax.apk",
       "description": "Ứng Dụng xem tivi tìm kênh bằng giọng nói bằng phím số YC bật tiếp cận"
-    }
-  ]
-}
-{
-  "TIEN ICH": [
+    },
     {
       "name": "File Manga +",
       "package": "com.file",
@@ -101,5 +97,4 @@
       "description": "Quản lý tệp tin"
     }
   ]
- }
-    
+}
