@@ -51,9 +51,9 @@
     {
       "name": "chợ Phim",
       "package": "com.chophim.tv",
-      "version": "1.0.8",
+      "version": "1.1.0",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/chophim.jfif",
-      "apk": "https://github.com/sang189hy/app/releases/download/1.0/chophim.apk",
+      "apk": "https://github.com/sang189hy/app/releases/download/1.0/chophim1.1.0.apk",
       "description": "Ứng dụng xem Phim miễn phí."
     },
     {
@@ -83,9 +83,9 @@
      {
       "name": "Phim 4K",
       "package": "com.oxootv.spagreen",
-      "version": "2.6.6",
+      "version": "2.6.8",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/phim4k.webp",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/Phim4K-v2.6.6.apk",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/phim4k2.6.8.apk",
       "description": "Ứng Dụng xem Phim 4K UHD "
     },
     {
