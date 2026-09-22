@@ -65,11 +65,11 @@
       "description": "Ứng dụng tải app bằng code mã số dowloader"
     },
     {
-      "name": "Sport Stream",
+      "name": "Hong tv",
       "package": "com.sport.strem",
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/daotv.jpg",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/Sport_Stream_v1.0.apk",
+      "apk": "https://github.com/nxhong93/hongtv_apk/releases/download/5.5/hongtv.apk",
       "description": "Ứng dụng Xem Đá Bóng miễn Phí"
     },
     {
