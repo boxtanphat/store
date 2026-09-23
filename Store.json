@@ -33,12 +33,12 @@
       "description": "Ứng Dụng xem Youtube Không QC"
     },
     {
-      "name": "Đào tv",
+      "name": "Youtube tizen mod Gốc 1.0",
       "package": "com.daotv.player",
-      "version": "2.2.8",
-      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/daotv.jpg",
-      "apk": "https://github.com/boxtanphat/store/releases/download/1/DaoTV2.2.8.apk",
-      "description": "Ứng dụng xem ĐÁ bóng miễn phí. hiện không ổn định"
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/boxtanphat/store/main/youtube.jpg",
+      "apk": "https://github.com/boxtanphat/store/releases/download/1/tzenmod1.0.apk",
+      "description": "Youtube không quả cáo mod youtube gốc cần gỡ youtube cũ trước khi tải và cài đặt- Quét QR đăng nhập để không bị lỗi"
     },
     {
       "name": "Getout",
